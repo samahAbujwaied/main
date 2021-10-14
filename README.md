@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Coding ...
 - 🌱 I’m currently learning React-Node Js...
-- 💞️ I’m interested to learn ne language and bulid projects ...
+- 💞️ I’m interested to learn new languages and bulid projects ...
 - 📫 How to reach me ...
 
 
@@ -59,7 +59,7 @@
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samahAbujwaied&layout=compact&border_color=#ff0000" />
-</a> --> -->
+</a> --> 
 <br/>
 <br/>
 
